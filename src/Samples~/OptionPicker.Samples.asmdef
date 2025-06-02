@@ -1,0 +1,16 @@
+{
+    "name": "OptionPicker.Samples",
+    "rootNamespace": "OptionPicker",
+    "references": [
+        "GUID:4d71696b0488f50419dd3e12661a5aaa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
