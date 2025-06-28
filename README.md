@@ -23,6 +23,7 @@ https://github.com/scaredcrowgames/androidoptionpicker.git?path=src
 ```json
 "com.scaredcrowgames.androidoptionpicker": "https://github.com/scaredcrowgames/androidoptionpicker.git?path=src"
 ```
+3. Get it from [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/native-mobile-option-picker-322382)
 
 ## Samples
 The package includes:
