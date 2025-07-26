@@ -8,6 +8,7 @@ A simple, lightweight native Android option picker implemented using Unity's `An
 - [Samples](#samples)
 - [How to use](#how-to-use)
 - [Contact us](#contact-us)
+- [Related repositories](#related-repositories)
 
 ## Installation
 
@@ -53,3 +54,8 @@ picker.Show(
 ## Contact us
 > [!TIP]
 > All discussions, requests and bug reports can be left in the corresponding [Discord channel](https://discord.gg/NZrN52A7NU) or here in Discussions
+
+## Related repositories
+Here are some related projects you might find useful:
+- [Android time picker](https://github.com/ScaredCrowGames/UnityAndroidTimePicker) – Native Android time picker for Unity
+- [Android date picker](https://github.com/ScaredCrowGames/UnityAndroidDatePicker) – Native Android date picker for Unity
